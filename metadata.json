@@ -1,0 +1,7 @@
+{
+  "name": "Catatan Amaliah Ramadhan Siswa",
+  "description": "A modern, child-friendly digital Ramadhan journal for students to track their daily worship and for teachers to monitor progress with interactive charts and gamified badges.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
